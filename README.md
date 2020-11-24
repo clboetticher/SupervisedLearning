@@ -1,4 +1,4 @@
-# Data Modeling
+# Data Modeling for Supervised Learning
 ### Code sharing for Northwestern MS in Data Science program<br>
 ### MSDS 410 (Fall 2020)
 
